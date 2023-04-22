@@ -50,7 +50,7 @@
     ],
     "theme_color": "#111111",
     "background_color": "#111111",
-    "start_url": "https://thealiendrew.github.io/minecraft-classic/",
+    "start_url": "https://rococo-phoenix-5357a6.netlify.app/beta/minecraft-classic-main/",
     "display": "standalone",
     "orientation": "landscape"
 }

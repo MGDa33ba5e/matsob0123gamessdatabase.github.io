@@ -2,10 +2,12 @@
 
 * {
 	margin: 0;
+	overflow: hidden;
 }
 
 canvas {
 	max-width: 100%;
+	overflow: hidden;
 }
 
 footer {
@@ -18,13 +20,16 @@ footer {
 	right: 0;
 	letter-spacing: 1px;
 	text-align: center;
+	overflow: hidden;
 }
 
 footer i {
 	color: red;
+	overflow: hidden;
 }
 
 footer a {
 	color: #3C97BF;
 	text-decoration: none;
+	overflow: hidden;
 }
